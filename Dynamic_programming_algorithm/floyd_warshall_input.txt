@@ -1,0 +1,14 @@
+Seoul Wonju 15
+Seoul Cheonan 12
+Cheonan Daejeon 10
+Cheonan Nonsan 4
+Nonsan Daejeon 3
+Nonsan Gwangju 13
+Gwangju Busan 15
+Busan Daegu 9
+Busan Pohang 5
+Daegu Daejeon 10
+Daegu Wonju 7
+Daegu Pohang 19
+Gangneung Pohang 25
+Wonju Gangneung 21
