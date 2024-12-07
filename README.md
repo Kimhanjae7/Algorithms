@@ -1,5 +1,6 @@
 # Algorithms
 
+● They are basic algorithmic codes.
 
 ● These codes were developed in a Linux environment.
 
